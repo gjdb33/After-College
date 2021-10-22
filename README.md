@@ -4,4 +4,4 @@
 
 - As of right now, I do not know how many years I will spend in the Army, but during my time, I hope to eventually get a _Master's Degree_ and be able to use it for whenever my Army career is over. 
 
-Here is a link back to the [README page](
+- Here is a link back to the [README page](https://github.com/gjdb33/midterm_project.git)
